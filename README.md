@@ -1,1 +1,1 @@
-# javascriptExercisePractice
+# javascript practice session
